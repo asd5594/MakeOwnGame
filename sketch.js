@@ -81,7 +81,7 @@ stuffGroup.add(stuff7);
 stuffGroup.add(stuff8);
 stuffGroup.add(stuff9);
 stuffGroup.add(stuff10);
-stuffGroup.setAnimationEach("stuffimage",stuffIMG);
+//stuffGroup.setAnimationEach("stuffimage",stuffIMG);
 
 }
 
